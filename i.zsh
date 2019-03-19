@@ -1,3 +1,3 @@
 i() {
-	yaourt -S $@
+	yay -S $@
 }

@@ -1,3 +1,3 @@
 is() {
-	yaourt -Ss $@
+	yay -Ss $@
 }

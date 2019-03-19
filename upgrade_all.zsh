@@ -1,3 +1,3 @@
 upgrade_all() {
-	yaourt -Syua --noconfirm --ignore geoclue2
+	yay -Syua --noconfirm --ignore geoclue2
 }
