@@ -1,3 +1,3 @@
 upgrade_all() {
-	yay -Syua --noconfirm --ignore geoclue2
+	yay -Syu --noconfirm --ignore=mongodb
 }
