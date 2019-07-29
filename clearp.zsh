@@ -1,0 +1,4 @@
+clearp() {
+	clear
+	pwd
+}
