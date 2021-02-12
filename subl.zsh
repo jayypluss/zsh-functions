@@ -1,3 +1,3 @@
-subl() {
-	subl3 $@
-}
+# subl() {
+# 	subl3 $@
+# }
